@@ -39,7 +39,7 @@ I love exploring new tech, building creative solutions, and continuously learnin
   <a href="https://t.me/hasan_taha" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="hassan0772259042412@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME" target="_blank">
