@@ -24,7 +24,14 @@
 
 ### 💡 About Me:
 
-- 🎯 I enjoy wr
+
+Hi there! I'm **Hassan**, a Computer Science student at the Faculty of Science.  
+I'm deeply passionate about **technology**, **software development**, and the endless possibilities of **programming**.
+
+I love exploring new tech, building creative solutions, and continuously learning in this ever-evolving field! 🚀💡
+
+---
+🧠 *"Code is like humor. When you have to explain it, it’s bad."*
 
 ### 📬 Connect with Me:
 
